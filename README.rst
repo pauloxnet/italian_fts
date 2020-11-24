@@ -68,6 +68,12 @@ install the dictionary::
 
 .. __: http://developer.postgresql.org/pgdocs/postgres/extend-extensions.html
 
+Using the PGXN client
+---------------------
+
+You can use the PGXN Client to download, build, and install 'italian_fts', e.g.::
+
+    pgxn install italian_fts
 
 Dictionary usage
 ================
